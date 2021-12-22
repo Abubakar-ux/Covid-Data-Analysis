@@ -1,6 +1,6 @@
-# Covid-Data-Analysis
+# Covid-Data-Analysis (C++)
 
-Coded in C++.
+
 
 The 2019–20 coronavirus pandemic is an ongoing pandemic of coronavirus disease 2019 (COVID-
 19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). As of 13 April
